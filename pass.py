@@ -3,7 +3,7 @@ import string
 
 
 def main():
-    print("\n\n\t\t\tby @JATOTH ADITHYA NAIK")
+    
     print("________________________________________")
     print("\n\t\t\t***RANDOM PASSWORD GENERATOR APP***\n")
     # taking usename from the user
